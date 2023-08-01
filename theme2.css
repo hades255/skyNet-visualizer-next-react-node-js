@@ -1,0 +1,32 @@
+:root.theme2 {
+  --color-primary-theme1: #ff5722;
+  --color-secondary-theme1: #261229;
+  --color-text-secondary-theme1: #fac56b;
+  --color-button-primary-theme1: #fdbc4e;
+  --color-footer-color-theme1: #0f0f0f;
+  --color-portfolio-secondary-theme1: #1f1f1f;
+  --color-portfolio-primary-text-theme1: #fff;
+  --color-portfolio-title-text-theme1: #a1a09f;
+  --color-checkout-page-theme1: #66415a;
+  --color-gray-light-theme1: #a3a3a3;
+  --color-gray-light2-theme1: #bebebe;
+  --color-landing-sub-text-theme1: #c99a40;
+  --color-quotation-color-theme1: #886013;
+  --color-quote-bg-theme1: #2c6c7b;
+  --color-skill-color-theme1: #ffdd9a;
+  --color-custom-purple-theme1: rgba(31, 13, 34, 0.92);
+
+  --drop-shadow-md-theme1: 0 4px 4px rgba(0, 0, 0, 0.25);
+
+  --stroke-portfolio-primary-theme1: #c99a40;
+  --stroke-portfolio-secondary-theme1: #ffdd9a;
+
+  --font-family-dmsans-theme1: 'DM Sans';
+  --font-family-playfair-theme1: 'Playfair Display';
+  --font-family-lexend-theme1: 'Lexend';
+  --font-family-roboto-theme1: 'Roboto';
+  --font-family-inter-theme1: 'Inter';
+
+  --inset-50p-theme1: 50%;
+  /* Continue this pattern as per your needs */
+}
