@@ -57,3 +57,5 @@ amplifytools.xcconfig
 **.sample
 settings.json
 #amplify-do-not-edit-end
+package-lock.json
+composer.lock
